@@ -22,7 +22,6 @@ int main() {
    return 0;
 }
 
-
 int minimum(int n1,int n2)
 {
   if(n1<n2)
